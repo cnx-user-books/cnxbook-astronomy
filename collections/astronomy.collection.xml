@@ -1,0 +1,68 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col12194</md:content-id>
+  <md:title>Astronomy Link Test</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>800676f1-84f2-4bff-9aa1-ba349b2213c7</md:uuid>
+<md:slug>astronomy</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Observing the Sky: The Birth of Astronomy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64307"/>
+        
+      
+    
+    
+      <col:module document="m64306"/>
+        
+      
+    
+    
+      <col:module document="m64303"/>
+        
+      
+    
+    
+      <col:module document="m64305"/>
+        
+      
+    
+    
+      <col:module document="m64298"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m64317"/>
+        
+      
+    
+  </col:content>
+</col:collection>
